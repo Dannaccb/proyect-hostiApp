@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&display=swap');
+
+
+body {
+  background: #3a86ff;
+}
+
+.cursive-font {
+  font-family: "Playwrite AU QLD", cursive;
+}
